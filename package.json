@@ -1,0 +1,30 @@
+{
+  "name": "webpack_4_scss_introduction",
+  "version": "1.0.0",
+  "description": "webpack4でscssのコンパイル環境を構築する導入部分サンプルです",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MotomichiWorks/webpack_4_scss_introduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MotomichiWorks/webpack_4_scss_introduction/issues"
+  },
+  "homepage": "https://github.com/MotomichiWorks/webpack_4_scss_introduction#readme",
+  "devDependencies": {
+    "autoprefixer": "^8.4.1",
+    "css-loader": "^0.28.11",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "node-sass": "^4.9.0",
+    "postcss-loader": "^2.1.5",
+    "sass-loader": "^7.0.1",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.8.1",
+    "webpack-cli": "^2.1.3"
+  }
+}

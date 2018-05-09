@@ -1,0 +1,8 @@
+.hoge {
+  .foo {
+    background-image: url(./hoge.png);
+  }
+  ::placeholder {
+    color: gray;
+  }
+}
